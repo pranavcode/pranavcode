@@ -1,4 +1,4 @@
-### Hi, I'm Pranav!
+## Hi, I'm Pranav! <img src="./assets/img/hi.gif" height="32" />
 
 <!--
 **pranavcode/pranavcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
