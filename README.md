@@ -1,8 +1,8 @@
 ## Hi, I'm Pranav! <img src="./assets/img/hi.gif" height="32" />
 
-[Pranav Kulkarni | Homepage ](https://pranavcode.com)
+[Pranav Kulkarni | Homepage ](https://pranavkulkarni.org)
 
-[Pranav Kulkarni | Tools](https://tools.pranavcode.com) 
+[Pranav Kulkarni | Tools](https://pranavkulkarni.org/tools/) 
 
 <!--
 **pranavcode/pranavcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
